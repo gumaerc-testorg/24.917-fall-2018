@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-917-conlangs-how-to-construct-a-language-fall-2018/ab037bffab2a6056108469927fedf4ab_MIT24_917f18_lec21_kin_terms.pdf
+file: /media/courses/24-917-conlangs-how-to-construct-a-language-fall-2018/ab037bffab2a6056108469927fedf4ab_MIT24_917f18_lec21_kin_terms.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 21 (PDF)
 uid: ab037bff-ab2a-6056-1084-69927fedf4ab
