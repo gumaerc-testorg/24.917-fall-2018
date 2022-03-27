@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d5f97fcd-a30e-cbc6-4371-0f68af4a95e7
 resourcetype: Document
 title: 24.917 ConLangs Lecture 1 - Phonetics
 uid: d57472fb-6438-e324-ab28-26f5c901a341

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d5f97fcd-a30e-cbc6-4371-0f68af4a95e7
 resourcetype: Document
 title: 'ConLangs Lectures 13-14: Word Order 1'
 uid: 5250c3c7-c387-f4ff-0c9b-5f4cf969b743

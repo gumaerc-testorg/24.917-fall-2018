@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d5f97fcd-a30e-cbc6-4371-0f68af4a95e7
 resourcetype: Document
 title: 24.917 ConLangs Lecture 7 - Morphology
 uid: 1da3ae70-03f6-b8a2-6176-b67c283fcb25

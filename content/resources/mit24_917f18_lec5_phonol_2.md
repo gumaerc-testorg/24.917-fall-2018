@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d5f97fcd-a30e-cbc6-4371-0f68af4a95e7
 resourcetype: Document
 title: 24.917 ConLangs Lecture 5 - Phonology 2
 uid: 2af43e61-e147-20a6-55f9-8138b3365a60
