@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-917-conlangs-how-to-construct-a-language-fall-2018/af9a17a93298332dd868fc60c29231aa_MIT24_917f18_lec2_phonet2.pdf
+file: /courses/24-917-conlangs-how-to-construct-a-language-fall-2018/af9a17a93298332dd868fc60c29231aa_MIT24_917f18_lec2_phonet2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

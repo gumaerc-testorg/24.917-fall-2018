@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ Lecture notes
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Phonetics 1 (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec1_phonet1)
+{{% resource_link d57472fb-6438-e324-ab28-26f5c901a341 "Phonetics 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Lecture notes
 2–3
 {{< tdclose >}}
 {{< tdopen >}}
-[Phonetics 2 (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec2_phonet2)
+{{% resource_link af9a17a9-3298-332d-d868-fc60c29231aa "Phonetics 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Lecture notes
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Phonology 1 (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec4_phonol1)
+{{% resource_link 5c5609c6-665b-3443-3006-976c01865651 "Phonology 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Lecture notes
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Phonology 2 (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec5_phonol_2)
+{{% resource_link 2af43e61-e147-20a6-55f9-8138b3365a60 "Phonology 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Lecture notes
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Klingon, Quenya, Parseltongue, etc. (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec6_klingon_etc)
+{{% resource_link 6e92f1a9-86f1-4697-3876-b760099d89e1 "Klingon, Quenya, Parseltongue, etc. (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Lecture notes
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Morphology (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec7_morphology)
+{{% resource_link 1da3ae70-03f6-b8a2-6176-b67c283fcb25 "Morphology (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Lecture notes
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Case (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec8_case)
+{{% resource_link 188783c5-055f-2885-0ada-e5b40a3fd248 "Case (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Lecture notes
 9﻿–10
 {{< tdclose >}}
 {{< tdopen >}}
-[Transitivity (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec9_transitivity)
+{{% resource_link bad70bb1-2b99-a930-9b98-759db147bea4 "Transitivity (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Lecture notes
 11–12
 {{< tdclose >}}
 {{< tdopen >}}
-[Agreement (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec11_agreement)
+{{% resource_link 49c47bb7-6a6d-fa0d-238b-c26a4781402b "Agreement (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Lecture notes
 13–14
 {{< tdclose >}}
 {{< tdopen >}}
-[Word Order 1 (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec13_word_order1)
+{{% resource_link 5250c3c7-c387-f4ff-0c9b-5f4cf969b743 "Word Order 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Lecture notes
 15–16
 {{< tdclose >}}
 {{< tdopen >}}
-[Embedded Clauses (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec15_embed)
+{{% resource_link e8bde5f6-22e1-cbf7-ba1a-1b1ab8a5f9db "Embedded Clauses (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ Lecture notes
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Questions (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec17_questions)
+{{% resource_link 365e0524-b0c8-be44-2b23-38e5f2788df5 "Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Lecture notes
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Word Order 2 (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec18_word_order2)
+{{% resource_link a181662a-a333-3e40-f5f9-e86880b45973 "Word Order 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +143,7 @@ Lecture notes
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Finishing Up Syntax (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec19_finish_syntax)
+{{% resource_link 5938e688-aa79-e49f-77ab-fbca2fa7d54f "Finishing Up Syntax (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ Lecture notes
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Discourse Particles (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec20_disc_part)
+{{% resource_link 966f438d-5570-9fe2-7b45-2cd7b3707fb2 "Discourse Particles (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ Lecture notes
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Kinship Terminology (PDF - 3.4MB)]({{< baseurl >}}/resources/mit24_917f18_lec21_kin_terms)
+{{% resource_link ab037bff-ab2a-6056-1084-69927fedf4ab "Kinship Terminology (PDF - 3.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Lecture notes
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Numbers and Colors (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec22_colors_etc)
+{{% resource_link c01cc68e-cace-267b-6cf3-6918a5021022 "Numbers and Colors (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +179,7 @@ Lecture notes
 23–24
 {{< tdclose >}}
 {{< tdopen >}}
-[Writing Systems (PDF - 1.5MB)]({{< baseurl >}}/resources/mit24_917f18_lec24_writ_syst)
+{{% resource_link 326bd9e8-dddb-af33-b01c-90e694f1d821 "Writing Systems (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ Lecture notes
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Historical Linguistics (PDF - 1.1MB)]({{< baseurl >}}/resources/mit24_917f18_lec25_hist_ling)
+{{% resource_link ef7f9e0e-46c6-43a5-d56b-fd3a9d28113d "Historical Linguistics (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +197,7 @@ Lecture notes
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Hesitation Noises, Language Games, Honorifics, etc. (PDF)]({{< baseurl >}}/resources/mit24_917f18_lec26_hesitation)
+{{% resource_link 87bde5ec-2608-c320-2d3d-e27ea7b20cc1 "Hesitation Noises, Language Games, Honorifics, etc. (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
