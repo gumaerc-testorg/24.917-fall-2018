@@ -44,8 +44,10 @@
     "website": "24-917-conlangs-how-to-construct-a-language-fall-2018"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Activity Assignments"
   ],
-  "site_uid": "7e4ed87e-39b2-4e61-a12a-b04be31bbecd",
+  "site_uid": "7c94e2a1-d736-4dbf-9d63-ab95b54a3cae",
+  "site_short_id": "24.917-fall-2018",
   "title": "Course Metadata"
 }
