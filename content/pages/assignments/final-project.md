@@ -69,4 +69,4 @@ As a rule of thumb, you need to do this every time you introduce a new piece of 
 As always, your translation doesn’t have to be literal.
 
   
-Code of Hacking Ethics © unknown. (Source: {{% resource_link "140f74ef-26d4-4560-a0f1-80e488e1cb27" "https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt" %}}) This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
+Code of Hacking Ethics © unknown. (Source: [https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt](https://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt)) This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
