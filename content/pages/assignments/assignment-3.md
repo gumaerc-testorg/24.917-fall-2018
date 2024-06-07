@@ -38,7 +38,7 @@ neko-jita (_Japanese_)
 cat-tongue  
 ‘inability to eat or drink hot things’
 
-There’s an {{% resource_link "3d95705c-228c-43b3-820d-8edfdf61452f" "overview article about compounds (PDF)" %}} that you can go look at if you want (some parts of it may be incomprehensibly technical; feel free to skip those).
+There’s an [overview article about compounds (PDF)](http://www.ai.mit.edu/projects/dm/bp/fabb-compounds.pdf) that you can go look at if you want (some parts of it may be incomprehensibly technical; feel free to skip those).
 
 Tell me how compounds work in your language. Some things to think about:
 

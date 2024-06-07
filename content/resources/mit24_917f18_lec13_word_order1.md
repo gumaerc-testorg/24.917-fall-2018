@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-917-conlangs-how-to-construct-a-language-fall-2018/5250c3c7c387f4ff0c9b5f4cf969b743_MIT24_917f18_lec13_word_order1.pdf
+file_size: 276037
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
