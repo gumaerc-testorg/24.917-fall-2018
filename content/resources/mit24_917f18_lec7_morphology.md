@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-917-conlangs-how-to-construct-a-language-fall-2018/1da3ae7003f6b8a26176b67c283fcb25_MIT24_917f18_lec7_morphology.pdf
+file: /courses/24-917-conlangs-how-to-construct-a-language-fall-2018/1da3ae7003f6b8a26176b67c283fcb25_MIT24_917f18_lec7_morphology.pdf
 file_size: 274191
 file_type: application/pdf
 learning_resource_types:

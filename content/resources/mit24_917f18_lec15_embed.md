@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-917-conlangs-how-to-construct-a-language-fall-2018/e8bde5f622e1cbf7ba1a1b1ab8a5f9db_MIT24_917f18_lec15_embed.pdf
+file: /courses/24-917-conlangs-how-to-construct-a-language-fall-2018/e8bde5f622e1cbf7ba1a1b1ab8a5f9db_MIT24_917f18_lec15_embed.pdf
 file_size: 823406
 file_type: application/pdf
 learning_resource_types:
