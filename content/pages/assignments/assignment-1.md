@@ -19,4 +19,4 @@ Phonetic Inventory
     (This would be a very odd language, of course.) If your language does not use sounds at all, that’s fine; you will just have to come up with some equivalent. What are the basic units, for your language?
 2.  Tell me something suprasegmental about your language. Does it have tone? Which tones? Does it have stress? What are the rules for stress?
 3.  Tell me about the syllable structure. What restrictions are there?
-4.  Give me a mini-dictionary of twenty words of your language. You can start off with a Swadesh list for inspiration ({{% resource_link "e10dceff-1ca5-4b0e-a56b-ab49fc7ae02e" "Wikipedia" %}} has one you can use). The words should be uninflected; don’t give me singulars and plurals of nouns, for example, or different tenses of verbs.
+4.  Give me a mini-dictionary of twenty words of your language. You can start off with a Swadesh list for inspiration ([Wikipedia](https://en.wikipedia.org/wiki/Swadesh_list) has one you can use). The words should be uninflected; don’t give me singulars and plurals of nouns, for example, or different tenses of verbs.
